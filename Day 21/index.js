@@ -28,7 +28,7 @@ let productSchema = new mongoose.Schema({
     price: Number,
     rating: Number
 })
-v.a.s.u.12@30&
+
 
 let usersModel = new mongoose.model('users', userSchema);
 
